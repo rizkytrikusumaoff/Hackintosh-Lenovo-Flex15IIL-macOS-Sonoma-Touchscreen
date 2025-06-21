@@ -6,7 +6,7 @@ Support multitouch, scroll dua jari, drag, dan klik — sangat jarang ditemukan 
 
 ![Touchscreen Working](assets/ss-touch.jpeg)
 
-![Trackpad Working](assets/ss-trackpad.jpeg)
+![Trackpad Working](assets/ss-trackpad.png)
 
 ---
 
