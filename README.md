@@ -75,7 +75,7 @@ Kontribusi, bug report, dan pull request sangat diterima!
 ---
 
 ## ⚠️ Catatan Penting
-- HDMI audio & card reader belum berfungsi
+- HDMI & card reader belum berfungsi
 - Gunakan itlwm versi khusus Sonoma 14.7 atau AirportItlwm 14.4+
 - Touchscreen memerlukan `VoodooI2C` + SSDT-GPIO/I2C yang sudah disertakan
 
