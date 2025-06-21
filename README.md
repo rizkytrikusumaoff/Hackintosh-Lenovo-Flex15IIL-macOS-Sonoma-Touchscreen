@@ -38,6 +38,14 @@ Support multitouch, scroll dua jari, drag, dan klik — sangat jarang ditemukan 
 
 ---
 
+## Pengaturan BIOS
+
+1. Matikan Intel PTT
+2. Matikan Intel SGX
+3. Matikan Secure Boot
+4. Matikan Legacy
+5. Matikan VT-d
+
 ## 🧭 Panduan Instalasi Singkat
 
 1. **Clone repo ini**, mount USB installer, salin folder `EFI` ke partisi EFI
